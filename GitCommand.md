@@ -44,3 +44,25 @@ $ rm -rf <repo_folder>/.git
 
  git remote add origin https://github.com/ZikaiO/Notes.git
 
+
+
+# 以下命令只clone master分支
+
+```
+$ git clone 
+```
+
+
+
+# Delete branch
+
+```
+$ git branch -d <local-branch>
+```
+
+If you want to delete such a branch nonetheless (e.g. because you've programmed yourself into a dead end and produced commits that aren't worth keeping) you can do so with the "-D" flag:
+
+```
+$ git branch -D <local-branch>
+```
+
