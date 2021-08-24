@@ -1,4 +1,15 @@
-<!-- toc -->
+- [Initialize New Repository](#initialize-new-repository)
+- [Take a Snapshot of teh contents of all files under the current directory](#take-a-snapshot-of-teh-contents-of-all-files-under-the-current-directory)
+- [Remove Snapshot of the file](#remove-snapshot-of-the-file)
+- [Snapshot Scroll Back](#snapshot-scroll-back)
+- [Delete Local GitHub Repository](#delete-local-github-repository)
+- [以下命令只clone master分支](#以下命令只clone-master分支)
+- [List All Branches](#list-all-branches)
+  - [Local](#local)
+  - [Remote](#remote)
+- [Switch Branch](#switch-branch)
+- [Delete branch](#delete-branch)
+  - [Delete Remote Branch](#delete-remote-branch)
 
 # Initialize New Repository
 
